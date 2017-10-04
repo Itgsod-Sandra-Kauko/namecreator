@@ -1,17 +1,19 @@
-# first project
+# Namecreator
 
-## fork
+A project that reads the users first and lastname and creates a username from it.
 
-ni ska forka det här projektet
+The username is created in ''nick.py'', read from the file ''users.csv'' and then will be presented by ''addusers.py''
 
+   firstname, lastname, username
 
-## clone
+## Username
 
-öppna det sedan i pycharm
+The username is created from the algorithm 2 first letters from the firstname and 5 first letters from the lastname
 
-## push
+example
 
-skapa er egen version av nick generator och pusha upp dennna
+      Sandra, Kauko
 
+generates
 
-
+      Sandra, Kauko, SaKauko
