@@ -2,9 +2,10 @@
 
 A project that reads the users first and lastname and creates a username from it.
 
-The username is created in ''nick.py'', read from the file ''users.csv'' and then will be presented by ''addusers.py''
+The username is created in ''nick.py'', read from the file ''users.csv'' and then will be presented by ''addusers.py'' in this order
 
-     firstname, lastname, username
+
+       Firstname, Lastname
 
 ## Username
 
